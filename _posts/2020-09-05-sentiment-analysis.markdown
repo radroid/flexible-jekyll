@@ -12,6 +12,9 @@ tags: [Productivity, Workflow] # add tag
 
 Link to Project: [https://github.com/radroid/project-one-sentiment-analysis](https://github.com/radroid/project-one-sentiment-analysis)
 
-* Train and test a recurrent neural network (RNN) (with some helper code) and deploy it to a web page. Use API Gateway and Lambda Function for dataflow.
+* Train and test a recurrent neural network (RNN) (with some helper code) and deploy it to a web page.
+* Use Amazon Web Services' **API Gateway** and **Lambda Function** to manage dataflow between the ML model and the webpage.
+* Write an orginal review of a show and test if the model is able to detect the sentiment accurately (see below).
 
+## Example Negative Review of Umbrella Academy
 ![negative-review-example]({{site.baseurl}}/assets/img/negative-review-example.png)
