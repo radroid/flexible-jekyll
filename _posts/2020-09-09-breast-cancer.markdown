@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breast Cancer Analysis
+title: Breast Cancer Analysis - ML Project
 date: 2020-09-09 00:00:00 -0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: breast-cancer.jpeg # Add image post (optional)

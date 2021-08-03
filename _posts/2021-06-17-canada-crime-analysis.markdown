@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Analysis of Canada Crime Statistics - Project
+title: Analysis of Canada Crime Statistics - Reporting Project
 date: 2021-06-17 00:00:00 -0500
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: canada-crime-stats.png # Add image post (optional)
