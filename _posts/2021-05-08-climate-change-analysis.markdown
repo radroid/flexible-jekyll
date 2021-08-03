@@ -10,8 +10,6 @@ tags: [Climate Change, Data Visualization] # add tag
 
 > Who is responsible for climate change?
 
-Link to Project: [https://github.com/radroid/climate-change-analysis](https://github.com/radroid/climate-change-analysis)
-
 *Picture credits: [Gantavya Banga](https://www.linkedin.com/in/gantavya-gary-banga-550310a9/)*
 
 * Perform analytics on over sixteen (16) climate change open data sources.
@@ -24,3 +22,5 @@ change crisis.
 
 ## Climate Change Dashboard - per Capita CO2 & GDP
 ![climate-change-dashboard-2]({{site.baseurl}}/assets/img/Dashboard-WhoisResponsible-2.png)
+
+**Link to Project**: [https://github.com/radroid/climate-change-analysis](https://github.com/radroid/climate-change-analysis)
