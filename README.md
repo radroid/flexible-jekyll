@@ -1,31 +1,21 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+### Hi there 👋
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+<!--
+**radroid/radroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## Demo
+Here are some ideas to get you started:
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+[![Makes People smile](https://forthebadge.com/images/badges/makes-people-smile.svg)](https://forthebadge.com)
+[![powered by](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
+[![Built with](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
-The main page would look like this:
-
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
-
-## License
-
-GNU General Public License v3.0
+> *I am currently working on completing this GitHub README.md file. I will soon populate this with demonstrations of how I can provide business value, my USP and other projects I have worked on. So, stay tuned! :bookmark:*
