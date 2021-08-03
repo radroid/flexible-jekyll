@@ -1,0 +1,21 @@
+---
+layout: post
+title: About me
+date: 2021-07-31 12:30:00 -0500
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: software.jpg # Add image post (optional)
+fig-caption: # Add figcaption (optional)
+tags: [value]
+---
+## What problems can I solve?
+* I am able to understand, condense and solve complex problems efficiently.
+* Optimization problems for manufacturing-related business problems - machine learning algorithms.
+* Prediction and comprehension problems for sales and marketing related business problems - data visualizations.
+* Data driven executive-level decision-making through visualizations - presentation.
+
+## What makes me different?
+I believe the following four characteristics will stand out when working with me.
+* Creating stories around business problems and presenting solutions in a way that is accessible and understandable to a person from any background.
+* I start and end with the business problem.
+* Focussing on finding an optimum solution to the business problem.
+* My report writing and presentation skills deliver professional looking, concise, and insightful reports and presentations.
