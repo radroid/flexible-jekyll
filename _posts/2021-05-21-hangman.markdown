@@ -9,8 +9,8 @@ tags: [Python, Project] # add tag
 
 > My First Python project - One can create a simple version of hangman (using the package) with less than 20 lines of code
 
-Link to Project: [https://github.com/radroid/Hangman](https://github.com/radroid/Hangman)
-
 * Create a hangman python package.
 * Test python package using GitHub Workflows.
 * Implement best practices for writing python code.
+
+**Link to Project**: [https://github.com/radroid/Hangman](https://github.com/radroid/Hangman)
