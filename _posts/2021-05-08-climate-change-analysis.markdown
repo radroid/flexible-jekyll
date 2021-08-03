@@ -12,12 +12,15 @@ tags: [Climate Change, Data Visualization] # add tag
 
 Link to Project: [https://github.com/radroid/climate-change-analysis](https://github.com/radroid/climate-change-analysis)
 
-*Note: Credits for the above to [Gantavya Banga](https://www.linkedin.com/in/gantavya-gary-banga-550310a9/)*
+*Picture credits: [Gantavya Banga](https://www.linkedin.com/in/gantavya-gary-banga-550310a9/)*
 
 * Perform analytics on over sixteen (16) climate change open data sources.
 * Create visualizations in PowerBI to showcase the causes, consequence and solutions to the climate
 change crisis.
 * Present the story through a video presentation to colleagues.
 
+## Natural Disaster Dashboard
 ![climate-change-dashboard-1]({{site.baseurl}}/assets/img/Dashboard-Natural-Disasters-2.png)
+
+## Climate Change Dashboard - per Capita CO2 & GDP
 ![climate-change-dashboard-2]({{site.baseurl}}/assets/img/Dashboard-WhoisResponsible-2.png)
