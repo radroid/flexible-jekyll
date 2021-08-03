@@ -9,11 +9,11 @@ tags: [Project, Data Visualization] # add tag
 
 > Crime in Ontario, Quebec and Manitoba
 
+Link to Project: [https://github.com/radroid/crime-stats-assignment-2](https://github.com/radroid/crime-stats-assignment-2)
+
 * Effective [data visualizations](https://github.com/radroid/crime-stats-assignment-2/blob/main/docs/pdfs/crime-visualizations.pdf)
 * Report presentation
 * Insight gathering and presentation
-
-
 
 ![canada-crime-onatrio]({{site.baseurl}}/assets/img/canada-crime-ontario.png)
 ![canada-crime-top-cities]({{site.baseurl}}/assets/img/canada-crime-top-cities.png)
