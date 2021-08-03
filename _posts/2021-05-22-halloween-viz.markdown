@@ -9,11 +9,14 @@ tags: [Data Visualization, Halloween] # add tag
 ---
 > Visualizations Jeffrey's Trick-or-Treaters
 
-Link to Project: [https://github.com/radroid/trick-or-treat-visualization/](https://github.com/radroid/trick-or-treat-visualization/)
-
-![halloween-viz]({{site.baseurl}}/assets/img/halloween-viz-workflow-eda.png)
-![halloween-viz-2]({{site.baseurl}}/assets/img/tableau-prep-screenshot.png)
-
 * Analyze and combine Halloween dataset created by Jeffrey A. Shaffer along with IMDb movies dataset.
 * Develop a dashboard in Tableau to portray a story around the datasets.
 * Communicate the full analysis through a PowerPoint presentation to fictional stakeholders.
+
+## Workflow Followed for the Project
+![halloween-viz]({{site.baseurl}}/assets/img/halloween-viz-workflow-eda.png)
+
+## Data Cleansing with Tableau Prep
+![halloween-viz-2]({{site.baseurl}}/assets/img/tableau-prep-screenshot.png)
+
+**Link to Project**: [https://github.com/radroid/trick-or-treat-visualization/](https://github.com/radroid/trick-or-treat-visualization/)
