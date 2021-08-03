@@ -14,7 +14,10 @@ Link to Project: [https://github.com/radroid/breast-cancer-wdbc/](https://github
 
 * Examine the performance of a set of supervised learning binary classification algorithms on the Breast Cancer Wisconsin (Diagnostic) dataset.
 
+## Correlation Plot of Variables in the Dataset
 ![breast-cancer-1]({{site.baseurl}}/assets/img/breast-cancer-heatmap.png)
+
+## Performance of Different ML Classification Algorithms
 ![breast-cancer-2]({{site.baseurl}}/assets/img/breast-cancer-model-perform.png)
 
 
