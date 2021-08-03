@@ -10,9 +10,9 @@ tags: [Machine Learning, Project, Classification] # add tag
 
 > Binary classification with different Machine Learning algorithms
 
-Link to Project: [https://github.com/radroid/breast-cancer-wdbc/](https://github.com/radroid/breast-cancer-wdbc/)
-
 * Examine the performance of a set of supervised learning binary classification algorithms on the Breast Cancer Wisconsin (Diagnostic) dataset.
+* Determine which ML model performs the best at predicting cancer type.
+* My first Machine Learning Project.
 
 ## Correlation Plot of Variables in the Dataset
 ![breast-cancer-1]({{site.baseurl}}/assets/img/breast-cancer-heatmap.png)
@@ -20,4 +20,4 @@ Link to Project: [https://github.com/radroid/breast-cancer-wdbc/](https://github
 ## Performance of Different ML Classification Algorithms
 ![breast-cancer-2]({{site.baseurl}}/assets/img/breast-cancer-model-perform.png)
 
-
+**Link to Project**: [https://github.com/radroid/breast-cancer-wdbc/](https://github.com/radroid/breast-cancer-wdbc/)
