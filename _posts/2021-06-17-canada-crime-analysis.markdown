@@ -9,12 +9,15 @@ tags: [Project, Data Visualization] # add tag
 
 > Crime in Ontario, Quebec and Manitoba
 
-Link to Project: [https://github.com/radroid/crime-stats-assignment-2](https://github.com/radroid/crime-stats-assignment-2)
+* Create effective [data visualizations](https://github.com/radroid/crime-stats-assignment-2/blob/main/docs/pdfs/crime-visualizations.pdf) Canada's crime statistics.
+* Write a report presenting the insights from the data to a Peace Officer.
+* Visualizations created in PowerBI.
 
-* Effective [data visualizations](https://github.com/radroid/crime-stats-assignment-2/blob/main/docs/pdfs/crime-visualizations.pdf)
-* Report presentation
-* Insight gathering and presentation
-
+# Example Visualizations in the Report
 ![canada-crime-onatrio]({{site.baseurl}}/assets/img/canada-crime-ontario.png)
+
 ![canada-crime-top-cities]({{site.baseurl}}/assets/img/canada-crime-top-cities.png)
+
 ![canada-crime-scatter-cities]({{site.baseurl}}/assets/img/canada-crime-scatter-cities.png)
+
+**Link to Project**: [https://github.com/radroid/crime-stats-assignment-2](https://github.com/radroid/crime-stats-assignment-2)
