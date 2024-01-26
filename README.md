@@ -26,4 +26,12 @@ Here are some ideas to get you started:
 [![powered by](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
 [![Built with](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) 
 
-> *I am currently working on completing this GitHub README.md file. I will soon populate this with demonstrations of how I can provide business value, my USP and other projects I have worked on. So, stay tuned! :bookmark:*
+## What am I doing now?
+> _last modified: Jan 26, 2024_<br>
+
+
+I am currently working on updating the projects that I have created on GitHub with AI. I do not intend to introduce AI into <u>all</u> repositories. I will add it only if they seem to be adding a creative edge.
+
+💡 If you have any ideas to implement AI, please do share through issues! Thank you for taking the time to contribute to my personal projects. Also, stay tuned to see some creative implementations! :bookmark:
+
+
